@@ -3,9 +3,9 @@
 ##
 ## 💻 My main experience is with C as I have a good understanding of basics programming concepts.
 ## ⌨️ In addition, I am familiar with languages like 
-## *Java, 
-## *C++, 
-## *PHP,
+##- Java, 
+##- C++, 
+##- PHP,
 ## and I have also worked with languages like MATLAB, C# , Python.
 ##
 ## Right now, I am looking for job opportunities ☎️ or experiences that could help me learn better practices, technologies or any work ethics related to the IT domain.
