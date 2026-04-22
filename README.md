@@ -2,7 +2,7 @@
 ## I'm Bogdan, and I am going to graduate from the Faculty of Electrical Engineering and Computer Science at  Transilvania University of Brasov at the end of this semester.
 ##
 ## 💻 My main experience is with C as I have a good understanding of basics programming concepts.
-## In addition, I am familiar with languages like 
+## ⌨️ In addition, I am familiar with languages like 
 ## *Java, 
 ## *C++, 
 ## *PHP,
