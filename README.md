@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Bogdan, I am going to graduate from the Faculty of Electrical Engineering and Computer Science at  Transilvania University of Brasov at the end of this semester.
+## I'm Bogdan, and I am going to graduate from the Faculty of Electrical Engineering and Computer Science at  Transilvania University of Brasov at the end of this semester.
 ## Right now, I am looking for job opportunities or experiences that could help me learn better practices, technologies or any work ethics related to the IT domain.
 ## I think I am able to understand pretty well the basics of programming as I have some experience with C programming language. In addition, I am familiar with languages like Java, C++, PHP, and I have worked also with languages like MATLAB, C# , Python.
 
