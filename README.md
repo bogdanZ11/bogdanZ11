@@ -7,7 +7,11 @@ I'm Bogdan, and I am going to graduate from the Faculty of Electrical Engineerin
 - Java, 
 - C++, 
 - PHP,
- and I have also worked with languages like MATLAB, C# , Python.
+
+and I have also worked with languages like 
+-MATLAB,
+-C#,
+-Python.
 
  Right now, I am looking for job opportunities ☎️ or experiences that could help me learn better practices, technologies or any work ethics related to the IT domain.
 
